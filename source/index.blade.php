@@ -41,7 +41,7 @@
 
                 <h3 id="intro-markdown" class="text-2xl text-blue-900 mb-0">Fully control the back-end<br> with Laravel</h3>
 
-                <p>Use Laravel to have precise control over back-end processes and to open up all the opportunities the web
+                <p>Use Laravel for precise control over back-end processes and to make use of everything the web
                     offers.</p>
             </div>
 
