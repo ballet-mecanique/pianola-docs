@@ -1,5 +1,5 @@
 ---
-title: Laravel Setup
+title: Installation
 description: Install Pianola as a Laravel Package
 extends: _layouts.documentation
 section: content

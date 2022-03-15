@@ -2,31 +2,16 @@
 
 return [
     'About Pianola' => [
-        'url' => 'docs/about-pianola',
         'children' => [
             'What is Pianola?' => 'docs/what-is-pianola',
-            'Navigation' => 'docs/navigation',
-            'Algolia DocSearch' => 'docs/algolia-docsearch',
-            'Custom 404 Page' => 'docs/custom-404-page',
-        ],
-    ],
-    'Installation' => [
-        'url' => 'docs/installation/',
-        'children' => [
-            'Laravel Project Setup' => 'docs/laravel-setup',
-            'Navigation' => 'docs/navigation',
-            'Algolia DocSearch' => 'docs/algolia-docsearch',
-            'Custom 404 Page' => 'docs/custom-404-page',
+            'Why \'Pianola\'?' => 'docs/why-pianola',
+            'Building Blocks' => 'docs/building-blocks',
+            'Basic Architecture' => 'docs/basic-architecture'
         ],
     ],
     'Getting Started' => [
-        'url' => 'docs/getting-started',
         'children' => [
-            'Customizing Your Site' => 'docs/customizing-your-site',
-            'Navigation' => 'docs/navigation',
-            'Algolia DocSearch' => 'docs/algolia-docsearch',
-            'Custom 404 Page' => 'docs/custom-404-page',
+            'Installation' => 'docs/installation'
         ],
-    ],
-    'Jigsaw Docs' => 'https://jigsaw.tighten.co/docs/installation',
+    ]
 ];

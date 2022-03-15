@@ -11,11 +11,11 @@
                 <p class="text-lg">Create browser-based database admin apps in a breeze. </p>
 
                 <div class="flex my-10">
-                    <a href="/docs/getting-started" title="{{ $page->siteName }} getting started"
+                    <a href="/docs/installation" title="{{ $page->siteName }} getting started"
                         class="bg-red-800 hover:bg-red-900 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">Get
                         Started</a>
 
-                    <a href="/docs/about" title="Pianola by Ballet Mécanique"
+                    <a href="/docs/what-is-pianola" title="Pianola by Ballet Mécanique"
                         class="bg-gray-400 hover:bg-gray-600 text-blue-900 font-normal hover:text-white rounded py-2 px-6">About
                         Pianola</a>
                 </div>
