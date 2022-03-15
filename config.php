@@ -5,8 +5,8 @@ use Illuminate\Support\Str;
 return [
     'baseUrl' => '',
     'production' => false,
-    'siteName' => 'Pianola Docs',
-    'siteDescription' => 'Rapid Web-App Development with Pianola',
+    'siteName' => 'Pianola',
+    'siteDescription' => 'Rapid database web-app development',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => env('DOCSEARCH_KEY'),
