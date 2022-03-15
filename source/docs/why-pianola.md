@@ -9,6 +9,8 @@ section: content
 
 The name Pianola derives from the name given to self-playing pianos developed in the early 20th century, and is inspired by the conceptual approach that the framework shares with the mechanism of pianolas.
 
+![Tux, the Linux mascot](/assets/img/steinway_pianola.jpg)
+
 Pianolas made heads turn because they could play music without a pianist. But this was not the only fascinating thing about them. What really made the invention stand out was the fact that they could be fed with rolls of paper with holes punched into them, and each roll determined what piece of music the pianola would play.
 
 The central idea of the Pianola software framework is the same: there is one core piece of software, which is fed different configuration files, depending on the clients' needs. The resulting database applications are therefore as varied as the pieces of music played.
