@@ -10,6 +10,15 @@ return [
             'Custom 404 Page' => 'docs/custom-404-page',
         ],
     ],
+    'Installation' => [
+        'url' => 'docs/installation/',
+        'children' => [
+            'Laravel Project Setup' => 'docs/laravel-setup',
+            'Navigation' => 'docs/navigation',
+            'Algolia DocSearch' => 'docs/algolia-docsearch',
+            'Custom 404 Page' => 'docs/custom-404-page',
+        ],
+    ],
     'Getting Started' => [
         'url' => 'docs/getting-started',
         'children' => [
