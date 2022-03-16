@@ -36,6 +36,10 @@ Every app comes with a set of basic features that are common to all applications
 5. List management features such as a list builder and an Excel exporter.
 6. Assistant features such as an alert that can be triggered for any record in the database.
 
+The foundation thereby aims to include all features (plus a few bonus extras) that every application needs.
+
 ## The Building Blocks
+
+An app is not complete with this foundation, however.
 
 ## The Config Files
