@@ -1,6 +1,6 @@
 ---
 title: Why 'Pianola'?
-description: The inspiration for the name.
+description: The inspiration for the framework's name.
 extends: _layouts.documentation
 section: content
 ---
