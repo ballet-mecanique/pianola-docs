@@ -5,15 +5,15 @@ extends: _layouts.documentation
 section: content
 ---
 
-Every Pianola app consists of a foundation:
+Every Pianola app consists of a foundation...
 
 ![Lego Foundation](/assets/img/lego_foundation.png)
 
-... a set of pre-fabricated building blocks:
+... a set of pre-fabricated building blocks...
 
 ![Lego Blocks](/assets/img/lego_blocks.png)
 
-... and a configuration file:
+... and a configuration file...
 
 ![Pianola Roll](/assets/img/pianola_roll_card.png)
 
