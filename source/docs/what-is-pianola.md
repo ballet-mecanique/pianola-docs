@@ -47,6 +47,8 @@ In other words, Pianola is not a fully-baked, off-the-shelf solution which can b
 
 By trying to identify features that every application needs, but allowing enough flexibility to configure the rest, it tries to strike an optimal balance. A balance which avoids reinventing the wheel with each application, but also avoids dictating to an organisation how it should work.
 
+Read more [in the next section](/docs/tailor-made) about the role that Pianola tries to play in the tailor-made vs off-the-shelf dichotomy.
+
 ## Administration Software
 
 The primary audience for Pianola applications is the back-office staff of companies and organisations.
