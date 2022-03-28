@@ -14,5 +14,8 @@ return [
         'children' => [
             'Installation' => 'docs/installation'
         ],
+      ],
+    'Roadmap' => [
+        'url' => 'docs/roadmap',
     ]
 ];
