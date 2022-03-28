@@ -63,7 +63,7 @@ As Pianola is not a public Composer package available on Packagist, the followin
 "repositories": [
     {
         "type": "composer",
-        "url": "https://composer.database-app.com"
+        "url": "https://composer.pianola.io"
     }
 ],
 ```
