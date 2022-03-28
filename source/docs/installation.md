@@ -125,7 +125,7 @@ Well done! Your Pianola application is now installed and running, and ready to b
 "repositories": [
     {
         "type": "composer",
-        "url": "https://composer.database-app.com"
+        "url": "https://composer.pianola.io"
     }
 ],
 ```

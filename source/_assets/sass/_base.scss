@@ -108,7 +108,12 @@ ul {
   @apply .my-4;
 }
 
+ul {
+  @apply .ml-4;
+}
+
 ol {
+  @apply .ml-5;
   @apply .list-decimal;
 }
 
