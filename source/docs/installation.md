@@ -104,7 +104,7 @@ You should now have a fully functioning Pianola app installed, which can be star
 php artisan serve
 ```
 
-The application can then be opened by alt-clicking on the local URL provided by the CLI (typically http://127.0.0.1:8000).
+The application can then be opened by cmd-clicking on the local URL provided by the CLI (typically http://127.0.0.1:8000).
 
 You should now receive a log-in screen, where you can log in with the credentials supplied above:
 
