@@ -16,6 +16,7 @@ section: content
 
 #### Documentation
 
+<input disabled="" type="checkbox" > Complete "Building Blocks" and "Basic Architecture" sections<br>
 <input disabled="" type="checkbox" > Create docs for end-users (to explain Pianola's basic functionality) <br>
 
 ## Cleanup
