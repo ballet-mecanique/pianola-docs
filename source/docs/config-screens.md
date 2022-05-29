@@ -11,7 +11,7 @@ You can turn on the config screen by toggling the config mode switch in the menu
 
 The toggle can also be activated and deactivated using **cmd-alt-k** (Mac) or **ctrl-alt-k** (Windows).
 
-> NB: This toggle is only visible if the `APP_ENV` environment variable in your Laravel application's `.env` file is set to `local`. Changes to the configuration are also only saved with this setting enabled, to prevent accidental changes to the configuraton in the production environment.
+> NB: This toggle is only visible if the `APP_ENV` environment variable in your Laravel application's `.env` file is set to `local`. Also, changes to the configuration are only saved to the config files if this setting is enabled, to prevent accidental changes to the configuraton in the production environment.
 
 When the config mode is toggled for the first time after a fresh page load, you are presented with a choice of 3 display options:
 
