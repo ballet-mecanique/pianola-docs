@@ -15,6 +15,12 @@ return [
             'Installation' => 'docs/installation'
         ],
       ],
+    'Config Mode' => [
+        'children' => [
+            'Introduction' => 'docs/config-intro',
+            'Screen Views' => 'docs/config-screens',
+        ],
+      ],
     'Roadmap' => [
         'url' => 'docs/roadmap',
     ]

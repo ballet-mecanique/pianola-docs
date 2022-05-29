@@ -88,7 +88,7 @@ php artisan pianola:install
 
 During the installation process, the CLI will ask you for your name, e-mail and a default password. The credentials you enter here will create the first user in the database, and you can use them to log into the template application.
 
-Once the installation step is finished, please remove the default 'welcome' route from `routes/web.php`:
+Once the installation step is finished, please remove the default 'welcome' route from `routes/web.php`, and add the Pianola route macro at the end of the document:
 
 ```php
 //remove this snippet
@@ -96,6 +96,9 @@ Once the installation step is finished, please remove the default 'welcome' rout
 Route::get('/', function () {
     return view('welcome');
 });
+
+//and add the following at the end
+Route::pianola();
 ```
 
 You should now have a fully functioning Pianola app installed, which can be started by running a server for the application:
@@ -116,7 +119,7 @@ Once logged in, you should see a template application with a Contacts and a Comp
 
 Well done! Your Pianola application is now installed and running, and ready to be configured.
 
-### Quick summary {#summary}
+### Quick Summary {#summary}
 
 1. Install a fresh Laravel app and link it to a database.
 2. Add the following to `composer.json`:
@@ -140,5 +143,11 @@ Route::get('/', function () {
 });
 ```
 
-6. Spin up a server with `php artisan serve`
-7. Enjoy your Pianola application.
+6. Add the following at the end of 'routes/web.php':
+
+```php
+Route::pianola();
+```
+
+7. Spin up a server with `php artisan serve`
+8. Enjoy your Pianola application.
