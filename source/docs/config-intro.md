@@ -12,11 +12,9 @@ Pianola applications are configured with the following two files:
 - schema.json
 - app.json
 
-The `schema.json` file describes the database schema of the application, whereas the `app.json` file determines how the components are placed in the interface of the user-facing application.
+The `schema.json` file describes the database schema of the application, whereas the `app.json` file determines how the components are placed in the interface of the user-facing application. Both files are located under `/config/pianola` in the app's folder structure.
 
-These files are located under `/config/pianola` in the app's folder structure.
-
-These files are basically just plain JSON files, and as such they are human-readable and could in theory also be edited in a text editor.
+The files are just plain JSON, and as such they are human-readable and could in theory also be edited in a text editor (you can read more about the [underlying syntax tree](/docs/config-tree) and the precise [JSON structure](/docs/config-json-structure) in later sections).
 
 However, given the complexity of the configuration options for each file, Pianola offers a configuration builder within the graphical interface of the application itself:
 

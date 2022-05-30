@@ -19,6 +19,12 @@ return [
         'children' => [
             'Introduction' => 'docs/config-intro',
             'Screen Views' => 'docs/config-screens',
+            'Layout Grid' => 'docs/config-layout-grid',
+            'Adding Components' => 'docs/config-adding-components',
+            'Editing Components' => 'docs/config-editing-components',
+            'The Config Tree' => 'docs/config-tree',
+            'JSON Structure' => 'docs/config-json-structure',
+            'Config Panel Navigation' => 'docs/config-panel-navigation',
         ],
       ],
     'Roadmap' => [

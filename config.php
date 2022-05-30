@@ -5,7 +5,7 @@ use Illuminate\Support\Str;
 return [
     'baseUrl' => '',
     'production' => false,
-    'siteName' => 'Pianola',
+    'siteName' => 'Pianola Developer Docs',
     'siteDescription' => 'Rapid database web-app development',
 
     // Algolia DocSearch credentials
