@@ -23,8 +23,8 @@ return [
             'Adding Components' => 'docs/config-adding-components',
             'Editing Components' => 'docs/config-editing-components',
             'The Config Tree' => 'docs/config-tree',
-            'JSON Structure' => 'docs/config-json-structure',
             'Config Panel Navigation' => 'docs/config-panel-navigation',
+            'JSON Structure' => 'docs/config-json-structure',
         ],
       ],
     'Roadmap' => [
