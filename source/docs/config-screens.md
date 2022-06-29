@@ -44,3 +44,9 @@ Note that the config panel remains open even when you turn off config mode. This
 > It is possible to navigate through the configuration settings purely inside the navigation panel. This process is described in detail [here](/docs/config-panel-navigation).
 
 ### Separate Window
+
+The separate window option is ideal if you work with several screens, e.g. two monitors at work or a laptop with an iPad as a second display when visiting clients:
+
+![Config View with 2 Screens](/assets/img/config_two_screens.png)
+
+Here, again, the config panel remains visible when you turn off config mode, allowing you to make changes while seeing the application panel in its natural state.
